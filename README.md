@@ -29,4 +29,5 @@ and I'm learning how to turn models into reliable software.
 ## 📫 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/subhashbishnoi0/)
+<br>
 [EMAIL](bishnoisub0@gmail.com)
