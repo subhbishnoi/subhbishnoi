@@ -13,22 +13,6 @@ and I'm learning how to turn models into reliable software.
 - **Backend:** FastAPI
 - **Tools:** Git, GitHub, Docker, MLflow
 
-## 🚀 Featured Projects
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhbishnoi&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhbishnoi&layout=donut&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhbishnoi&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhbishnoi&layout=compact&theme=tokyonight" height="160" />
-</p>
-
 ## 🔥 Contribution Streak
 
 <p align="center">
