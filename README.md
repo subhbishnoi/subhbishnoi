@@ -21,18 +21,19 @@ and I'm learning how to turn models into reliable software.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhbishnoi&layout=donut&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhbishnoi&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhbishnoi&layout=compact&theme=tokyonight" height="160" />
+</p>
+
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhbishnoi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=subhbishnoi&theme=tokyonight" />
 </p>
-
-## 📅 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhbishnoi&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
