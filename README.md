@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**subhbishnoi/subhbishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Subhash 👋
 
-Here are some ideas to get you started:
+### AI/ML Engineering Student | Python | FastAPI | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical AI and machine learning applications,
+and I'm learning how to turn models into reliable software.
+
+## 🛠️ Technologies
+
+- **Languages:** Python, Java, SQL
+- **ML:** Scikit-learn, Pandas, NumPy
+- **Backend:** FastAPI
+- **Tools:** Git, GitHub, Docker, MLflow
+
+## 🚀 Featured Projects
+
+- **Autonomous Snake DQN** — Reinforcement learning game
+- **Gym Injury MLOps** — Experimental ML prediction pipeline
+- **YouTube Comment Analyzer** — AI-powered comment analysis
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Backend development
+- Machine learning engineering
+- System design
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/subhashbishnoi0/)
+[EMAIL](bishnoisub0@gmail.com)
